@@ -1,0 +1,36 @@
+ul li{
+	 list-style-type: none;
+}
+
+ul li a{
+	 text-decoration: none;
+	
+	}
+.container {
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #00FFFF;
+	padding-left: 40px;
+	padding-right: 40px;
+	box-sizing:border-box;
+
+   }
+
+   header {
+	padding-top: 20px;
+	color: #617140;
+}
+ header h1 {
+	margin: 0;
+	font-weight: normal;
+	font-size: 165%;
+}
+.site-nav{
+	margin-top: 20px;
+
+}
+ .site-nav ul{
+ 	margin
+ }
+ 
